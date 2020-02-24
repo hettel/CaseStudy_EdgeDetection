@@ -25,7 +25,7 @@ Start the application:
 The application offers a simple user interface. You can load a directory with jpg- and png-files. The contents of the directory are shown at the bottom of the UI.
 
 A selected image is converted to a gray colored image and is displayed on the left. By pushing the start button the 
-<code>getEdgeDetectedImage</code> method of the class <code>SobelOperator</code> is called. 
+<code>getEdgeDetectedImage</code> method of the class <code>app.util.alg.SobelOperator</code> is called. 
 
 The actual implementation makes a copy of the image. The result shown on the right. 
 

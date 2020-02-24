@@ -40,7 +40,7 @@
                         </VBox>
                         <VBox fx:id="edgeImageContainer" spacing="10.0">
                            <children>
-                              <Label text="Edge Detected">
+                              <Label text="Detected Edges">
                                  <padding>
                                     <Insets bottom="10.0" top="10.0" />
                                  </padding>
