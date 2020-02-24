@@ -10,6 +10,16 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Eclipse Files
+.project
+.classpath
+.settings
+build/
+bin/
+target/
+MANINFEST.MF
+
+
 # Package Files #
 *.jar
 *.war
