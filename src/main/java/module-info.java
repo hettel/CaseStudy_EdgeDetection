@@ -1,7 +1,7 @@
 /**
  * 
  */
-module EdgeDetection
+module edgeDetection
 {
   opens app.ui to javafx.graphics,javafx.fxml;
   opens app to javafx.graphics,javafx.fxml;
