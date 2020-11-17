@@ -27,11 +27,11 @@ The application offers a simple user interface. You can load a directory with jp
 A selected image is converted to a gray colored image and is displayed on the left. By pushing the start button the 
 <code>getEdgeDetectedImage</code> method of the class <code>app.util.alg.SobelOperator</code> is called. 
 
-The actual implementation makes a copy of the image. The result shown on the right. 
+The actual implementation makes a copy of the image. The result shown on the right hand side. 
 
 ---
 
 ### Exercise
-Implement the [Sobel edge detection](https://en.wikipedia.org/wiki/Sobel_operator) operation in the <code>getEdgeDetectedImage</code> method. The return value should be a pixel buffer with the corresponding edge image. With the slider there can be set threshold that can be used to sharpen the image. 
+Implement the [Sobel edge detection](https://en.wikipedia.org/wiki/Sobel_operator) operation in the <code>getEdgeDetectedImage</code> method. The return value should be a pixel buffer with the corresponding edge image. The slider should allow to set a threshold that can be used to sharpen the image. 
 
 <img src="images/ui.jpg" alt="drawing" width="600"/>

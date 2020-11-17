@@ -16,7 +16,7 @@
 <?import javafx.scene.layout.Region?>
 <?import javafx.scene.layout.VBox?>
 
-<BorderPane fx:id="mainWindow" prefHeight="525.0" prefWidth="854.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.ui.UIController">
+<BorderPane fx:id="mainWindow" prefHeight="525.0" prefWidth="854.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.ui.UIController">
    <center>
       <BorderPane prefHeight="750.0" prefWidth="900.0" BorderPane.alignment="CENTER">
          <center>
